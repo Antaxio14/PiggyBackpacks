@@ -1,8 +1,8 @@
 sizes:
-  Small: 18
-  Medium: 27
-  Large: 36
-  Gigantic: 45
+  Small: 50
+  Medium: 30
+  Large: 50
+  Gigantic: 50
 crafting:
   Small:
     meta: 1
